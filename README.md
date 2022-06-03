@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Exploring Cloud Native Applications, DevOps and Artificial Intelligence.
 
 <a href="https://github.com/dalanad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalanad&show_icons=true" />
+  <img height="3em" src="https://github-readme-stats.vercel.app/api?username=dalanad&show_icons=true" />
 </a>
 
 <br/>
