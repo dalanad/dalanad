@@ -1,4 +1,4 @@
-## Hey There! I'm Dalana. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hey There! I'm Dalana. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px"></h2>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Exploring Cloud Native Applications, DevOps and Artificial Intelligence.
 
 <a href="https://github.com/dalanad">
-  <img height="3em" src="https://github-readme-stats.vercel.app/api?username=dalanad&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalanad&show_icons=true" />
 </a>
 
 <br/>
