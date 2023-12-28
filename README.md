@@ -7,10 +7,6 @@
 - 🎓 &nbsp; Computer Science Undergrad at University of Colombo School Of Computing.
 - 🌱 &nbsp; Exploring Cloud Native Applications, DevOps and Artificial Intelligence.
 
-<a href="https://github.com/dalanad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalanad&show_icons=true" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
