@@ -44,4 +44,4 @@
 
 🧩 **Random from the Lab**
 
-> “I don’t chase trends. build the tools that shape them.”
+> “Don’t chase trends. build the tools that shape them.”
