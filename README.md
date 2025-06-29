@@ -1,24 +1,47 @@
-## Hey There! I'm Dalana. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px"></h2>
 
+<h1 align="center">Hey, I'm Dalana 👋</h1>
+<p align="center">
+  <b>Engineer. Builder. Systems Thinker.</b><br/>
+  Building high-performance software where latency matters. Exploring the edges of code, computation, and creativity.
+</p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+---
 
-- 🤔 &nbsp; A Self-taught Full-stack Developer.
-- 🎓 &nbsp; Computer Science Undergrad at University of Colombo School Of Computing.
-- 🌱 &nbsp; Exploring Cloud Native Applications, DevOps and Artificial Intelligence.
+🚀 **What I'm Doing Now**
 
-<br/>
+* Low-latency clearing systems @ **LSEG**
+* Building and scaling multiple next-gen B2C SaaS products
+* Architecting tools that bridge **data pipelines**, **design precision**, and **developer speed**
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+🛠 **Tech I Use & Love**
 
-<a href="mailto:dalana.dhar@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+* **Languages:** C++, TypeScript, Java, Python
+* **Frameworks:** React, NestJS, Flutter, Node.js, OpenCV
+* **Infra:** PostgreSQL, Redis, Docker
+* **Tooling:** VSCode
 
-<a href="https://www.linkedin.com/in/dalanad/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+🧠 **Interests**
 
-<a href="https://stackoverflow.com/users/9680830/dalana-pasindu">
-  <img alt="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
+* Real-time systems & concurrency models
+* AI at the edge of infrastructure
+* Code that ships clean, ships fast, and scales
+
+🌍 **Connect with Me**
+
+* Portfolio: [dalanad.me](https://dalanad.me) 
+* LinkedIn: [linkedin.com/in/dalanapasindu](https://linkedin.com/in/dalanad)
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dalanad&show_icons=true&hide=issues&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalanad&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+🧩 **Random from the Lab**
+
+> “I don’t chase trends. build the tools that shape them.”
