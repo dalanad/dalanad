@@ -23,7 +23,7 @@
 🧠 **Interests**
 
 * Real-time systems & concurrency models
-* AI at the edge of infrastructure
+* AI at the edge
 * Code that ships clean, ships fast, and scales
 
 🌍 **Connect with Me**
