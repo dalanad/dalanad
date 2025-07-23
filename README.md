@@ -9,15 +9,15 @@
 
 🚀 **What I'm Doing Now**
 
-* Low-latency clearing systems @ **LSEG**
-* Building and scaling multiple next-gen B2C SaaS products
+* Healthcare operations co-pilot for modern clinics @ **Zeya.Health**
+* Building and scaling multiple next-gen B2B,B2C SaaS products
 * Architecting tools that bridge **data pipelines**, **design precision**, and **developer speed**
 
 🛠 **Tech I Use & Love**
 
 * **Languages:** C++, TypeScript, Java, Python
 * **Frameworks:** React, NestJS, Flutter, Node.js, OpenCV
-* **Infra:** PostgreSQL, Redis, Docker
+* **Infra:** GCP, AWS, PostgreSQL, Redis, Docker
 * **Tooling:** VSCode
 
 🧠 **Interests**
