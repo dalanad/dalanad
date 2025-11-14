@@ -28,7 +28,7 @@
 
 🌍 **Connect with Me**
 
-* Portfolio: [dalanad.me](https://dalanad.me) 
+* Portfolio: [https://dalanad.me](https://dalanad.github.io/)
 * LinkedIn: [linkedin.com/in/dalanapasindu](https://linkedin.com/in/dalanad)
 
 ---
